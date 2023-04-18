@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcdf"
+  },
+  "fullname": "Стефан Левченко",
+  "email": "venedykt61@example.org",
+  "check_send": false,
+  "phone": "+38 053 328-24-69",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce0"
+  },
+  "fullname": "Олесь Вівчаренко",
+  "email": "hsuprunenko@example.org",
+  "check_send": false,
+  "phone": "+38 044 846-30-90",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce1"
+  },
+  "fullname": "Оксана Скоробогатько",
+  "email": "valerii23@example.org",
+  "check_send": false,
+  "phone": "505-34-72",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce2"
+  },
+  "fullname": "Аліна Андріїшин",
+  "email": "ctereshchenko@example.com",
+  "check_send": false,
+  "phone": "639 09 91",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce3"
+  },
+  "fullname": "Хома Литвин",
+  "email": "xvdovenko@example.com",
+  "check_send": false,
+  "phone": "+38 075 925-46-40",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce4"
+  },
+  "fullname": "Юхим Ващенко-Захарченко",
+  "email": "les29@example.com",
+  "check_send": false,
+  "phone": "028 83 24",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce5"
+  },
+  "fullname": "Устим Чайка",
+  "email": "hunkoiryna@example.com",
+  "check_send": false,
+  "phone": "+38 071 592-79-33",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce6"
+  },
+  "fullname": "Демид Сич",
+  "email": "iefrem32@example.net",
+  "check_send": false,
+  "phone": "+38 027 845-18-22",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce7"
+  },
+  "fullname": "Розалія Верес",
+  "email": "tsisykonysym@example.com",
+  "check_send": false,
+  "phone": "+38 004 106-67-13",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce8"
+  },
+  "fullname": "Семен Демиденко",
+  "email": "idzyndra@example.org",
+  "check_send": false,
+  "phone": "721 77 92",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bce9"
+  },
+  "fullname": "Едита Ажажа",
+  "email": "dzyndratrokhym@example.net",
+  "check_send": false,
+  "phone": "+38 090 326 58 65",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcea"
+  },
+  "fullname": "Микита Гавриленко",
+  "email": "baturynetskhrystyna@example.com",
+  "check_send": false,
+  "phone": "+38 027 688-46-74",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bceb"
+  },
+  "fullname": "Августин Бгиденко",
+  "email": "kkhomyk@example.net",
+  "check_send": false,
+  "phone": "+38 073 550-09-87",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcec"
+  },
+  "fullname": "Валентин Цимбалюк",
+  "email": "ochaban@example.com",
+  "check_send": false,
+  "phone": "038 130-26-98",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bced"
+  },
+  "fullname": "Аніта Даниленко",
+  "email": "mykytazasenko@example.net",
+  "check_send": false,
+  "phone": "+38 097 404-33-08",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcee"
+  },
+  "fullname": "Ярема Черненко",
+  "email": "faleksiichuk@example.com",
+  "check_send": false,
+  "phone": "+38 077 658 50 17",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcef"
+  },
+  "fullname": "Назар Ільєнко",
+  "email": "tdakhno@example.com",
+  "check_send": false,
+  "phone": "+38 (062) 920-54-90",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcf0"
+  },
+  "fullname": "Валерій Яковенко",
+  "email": "rubetsvalerii@example.net",
+  "check_send": false,
+  "phone": "060 096 84 85",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcf1"
+  },
+  "fullname": "Амалія Супруненко",
+  "email": "parmensemenchenko@example.net",
+  "check_send": false,
+  "phone": "177 74 65",
+  "tags_contact": []
+},{
+  "_id": {
+    "$oid": "643ef2c35e76d7fdd1a6bcf2"
+  },
+  "fullname": "Клавдія Карпа",
+  "email": "turkalooleksandr@example.net",
+  "check_send": false,
+  "phone": "+38 086 965-72-21",
+  "tags_contact": []
+}]
